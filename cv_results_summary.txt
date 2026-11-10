@@ -1,0 +1,14 @@
+5-FOLD CV RESULTS (Mean ± SD)
+=============================================
+
+Target: Nitrate
+  MLP -> RMSE: 9.456 ± 0.766 | R²: 0.048 ± 0.056
+  RF  -> RMSE: 9.178 ± 0.563 | R²: 0.101 ± 0.054
+
+Target: Kjeldahl Nitrogen
+  MLP -> RMSE: 16.301 ± 11.623 | R²: 0.831 ± 0.071
+  RF  -> RMSE: 20.160 ± 15.380 | R²: 0.783 ± 0.069
+
+Target: Total Phosphorus
+  MLP -> RMSE: 0.526 ± 0.011 | R²: 0.320 ± 0.037
+  RF  -> RMSE: 0.558 ± 0.020 | R²: 0.235 ± 0.018
